@@ -1,0 +1,10 @@
+{
+  "name": "ui5-middleware-userservice",
+  "version": "0.0.2",
+  "description": "UI5 Middleware MIMIC userServices using configuration defined in configurations parameter",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "Murilo Monteiro",
+  "license": "ISC"
+}
